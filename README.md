@@ -5,7 +5,7 @@ HR Analytics Dashboard
 
 ### Description
 This project is an interactive Power BI Dashboard built to monitor and analyze key HR metrics, including employee attrition, demographics, and job satisfaction.
-This project helps visualize employee attrition and engagement levels across departments, age groups, job roles, and education fields to uncover retention risks and optimize workforce management.
+This dashboard helps visualize employee attrition and engagement levels across departments, age groups, job roles, and education fields to uncover retention risks and optimize workforce management.
 
 ### KPIs :scroll:
 1. Overall Employees
